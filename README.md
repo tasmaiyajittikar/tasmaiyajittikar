@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react" />
+ <img src="https://img.shields.io/badge/-SAP-0FAAFF?style=flat&logo=sap" />
+  <img src="https://img.shields.io/badge/-ServiceNow-1CB743?style=flat&logo=servicenow&logoColor=white" />
 </p>
 
 ---
