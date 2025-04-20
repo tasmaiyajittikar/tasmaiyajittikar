@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tasmaiya Jittikar</h1>
+<h1 align="center">Hi 👋, I'm Tasmaiya Jittikar Tamboli</h1>
 <h3 align="center">Cloud | Linux | Infrastructure-as-Code | Graduate Student at UNT</h3>
 
 ---
