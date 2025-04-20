@@ -10,7 +10,7 @@
 - 💬 Ask me about: **Linux, Cloud Infrastructure, SAP Clusters, Puppet, Terraform, Ansible**  
 - 📫 Reach me at: **tasmaiyajittikar@gmail.com**  
 - 📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1DRatPkx0vKw_9ztw3sDpbhJA0RlrWDHg/view?usp=drive_link)  
-- ⚡ Fun fact: I’ve led 3000+ server support, zero-downtime migrations, and still love debugging bash scripts at 3 AM ☕
+- ⚡ Fun fact: Outside of tech, I’m a passionate Mehndi artist and craft enthusiast. Designing intricate patterns and creating handmade art keeps me grounded and creatively inspired.
 
 ---
 
