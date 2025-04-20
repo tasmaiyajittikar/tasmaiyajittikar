@@ -3,7 +3,9 @@
 
 ---
 
-- 🔭 Currently working on: **SafePath** – A multilingual travel guidance app for non-tech-savvy travelers  
+- 🌱 With 6 years of hands-on industry experience, I've recently shifted focus to building my GitHub presence—turning real-world skills into open-source contributions. My GitHub stats may be in their early days, 
+    but I’m on a steady path upward, consistently pushing code and growing with every commit.
+- 🔭Currently working on: **SafePath** – A multilingual travel guidance app for non-tech-savvy travelers  
 - 🌱 Learning: **Kubernetes, GoLang, Azure DevOps**  
 - 💬 Ask me about: **Linux, Cloud Infrastructure, SAP Clusters, Puppet, Terraform, Ansible**  
 - 📫 Reach me at: **tasmaiyajittikar@gmail.com**  
