@@ -17,19 +17,8 @@
 ### 💼 Work Experience
 
 **Technology Lead – Infosys, Pune (2021–2024)**  
-- Led Linux Ops team to achieve 99.9% SAP cluster uptime  
-- Implemented Puppet and Terraform for standardized deployments  
-- Reduced manual provisioning time by 30% via IaC automation  
-- Enhanced security by 20% with ISO-based compliance checks  
-- Mentored junior engineers and developed training plans  
 
 **Associate Consultant – Capgemini, Mumbai (2018–2021)**  
-- Managed infrastructure for 3000+ Linux/Unix servers  
-- Migrated RHEL6 to RHEL7 with zero downtime  
-- Optimized SAP cluster reliability by 50%  
-- Automated hardening and risk acceptance tracking via SharePoint
-
----
 
 ### 🚀 Projects
 
