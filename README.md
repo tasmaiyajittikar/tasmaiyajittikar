@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasmaiya Jittikar Tamboli</h1>
-<h3 align="center">Cloud | Linux | Infrastructure-as-Code | Graduate Student at UNT</h3>
+<h3 align="center">Cloud Operations | AI-Data Deriven Solutions</h3>
 
 ---
 
