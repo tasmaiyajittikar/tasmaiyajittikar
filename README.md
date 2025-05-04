@@ -9,7 +9,7 @@
 - 🌱 Learning: **Kubernetes, GoLang, Azure DevOps**  
 - 💬 Ask me about: **Linux, Cloud Infrastructure, SAP Clusters, Puppet, Terraform, Ansible**  
 - 📫 Reach me at: **tasmaiyajittikar@gmail.com**  
-- 📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1sKYxDNeXhXBmyxEJuHgfZsmkG1mQi6-6/view?usp=sharing)  
+- 📄 [View My Resume (Google Drive)](https://drive.google.com/file/d/1l8JnkRXovhxpOFRaPXdySgwyMmXJvD_o/view?usp=sharing)  
 - ⚡ Fun fact: Outside of tech, I’m a passionate Mehndi artist and craft enthusiast. Designing intricate patterns and creating handmade art keeps me grounded and creatively inspired.
 
 ---
